@@ -1,0 +1,6 @@
+{
+  "name": "BIST Akıllı Analiz Merkezi",
+  "description": "Borsa İstanbul pay senetleri için kapsamlı hisse tarama, deterministik teknik analiz motoru, 5/7/10 günlük senaryo modellemesi ve strateji backtest platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
